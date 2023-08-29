@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","url":"allpackages-index.html"},{"l":"be.naturalsciences.bmdc.cruise.comparator"},{"l":"be.naturalsciences.bmdc.cruise.model"}]
